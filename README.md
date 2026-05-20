@@ -48,11 +48,6 @@ This dashboard helps answer the following analytical questions:
 
 ---
 
-# Dashboard Preview
-
-<img width="100%" alt="Startup Founder Dashboard" src="https://github.com/user-attachments/assets/dashboard-preview.png">
-
----
 
 # Features
 
